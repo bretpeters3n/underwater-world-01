@@ -6,7 +6,22 @@ ModelImporter:
   - first:
       74: -1833641857158553092
     second: Root|Root|Take 001|BaseLayer
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bench
+    second: {fileID: -1067858473107284313, guid: 37eedcec640bd764bb05700a555f57f0, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bucket With Worms
+    second: {fileID: 4595311900594997590, guid: 37eedcec640bd764bb05700a555f57f0, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cabin
+    second: {fileID: 1191511882497327308, guid: 37eedcec640bd764bb05700a555f57f0, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
