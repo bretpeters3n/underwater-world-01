@@ -1498,3 +1498,60 @@ Light:
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
   m_ShadowAngle: 0
+--- !u!1001 &1649079865
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 895510450856530763, guid: f451d904e4c7f6e44af58495c96c2b70, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 895510450856530763, guid: f451d904e4c7f6e44af58495c96c2b70, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -7.584775
+      objectReference: {fileID: 0}
+    - target: {fileID: 895510450856530763, guid: f451d904e4c7f6e44af58495c96c2b70, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.662974
+      objectReference: {fileID: 0}
+    - target: {fileID: 895510450856530763, guid: f451d904e4c7f6e44af58495c96c2b70, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.27559328
+      objectReference: {fileID: 0}
+    - target: {fileID: 895510450856530763, guid: f451d904e4c7f6e44af58495c96c2b70, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 895510450856530763, guid: f451d904e4c7f6e44af58495c96c2b70, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 895510450856530763, guid: f451d904e4c7f6e44af58495c96c2b70, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 895510450856530763, guid: f451d904e4c7f6e44af58495c96c2b70, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 895510450856530763, guid: f451d904e4c7f6e44af58495c96c2b70, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 895510450856530763, guid: f451d904e4c7f6e44af58495c96c2b70, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 895510450856530763, guid: f451d904e4c7f6e44af58495c96c2b70, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7940705852585408292, guid: f451d904e4c7f6e44af58495c96c2b70, type: 3}
+      propertyPath: m_Name
+      value: Low_Poly_Lake_Scene
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f451d904e4c7f6e44af58495c96c2b70, type: 3}
