@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low poly Fire Pit
+* source:	https://sketchfab.com/3d-models/low-poly-fire-pit-eff207417d074afba7227d3c97232cd5
+* author:	Kelly Liang (https://sketchfab.com/kellyliang)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low poly Fire Pit" (https://sketchfab.com/3d-models/low-poly-fire-pit-eff207417d074afba7227d3c97232cd5) by Kelly Liang (https://sketchfab.com/kellyliang) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
